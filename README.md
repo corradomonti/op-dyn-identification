@@ -4,5 +4,5 @@ Identification problems in learnable BCMs and extensions. Code for the paper "Is
 
 ## Repository structure
 
-- notebooks: contains jupyter notebooks for plotting and visualisation
-- src: contains all the source code for running the experiments in the paper
+- **notebooks**: contains jupyter notebooks for plotting and visualisation
+- **src**: contains all the source code for running the experiments in the paper
